@@ -9,5 +9,3 @@ if You have "Command PhaseScriptExecution failed with a nonzero exit code" error
 and install pod again
 
 Developed by Roman Mishchenko
-
-"Answer to the Ultimate Question of Life, the Universe, and Everything"
