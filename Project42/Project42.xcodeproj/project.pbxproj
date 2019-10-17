@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A4539C2E2351065C00030B7E /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4539C2D2351065C00030B7E /* Data.swift */; };
 		A4539C392351078400030B7E /* User+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4539C372351078400030B7E /* User+CoreDataClass.swift */; };
 		A4539C3A2351078400030B7E /* User+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4539C382351078400030B7E /* User+CoreDataProperties.swift */; };
 		A4539C3C235110E700030B7E /* PersistantService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4539C3B235110E700030B7E /* PersistantService.swift */; };
+		A475E8EA2358FB4500EC2BE4 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = A475E8E92358FB4500EC2BE4 /* Data.swift */; };
 		A4FBFCEF234FCEF30023295D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4FBFCEE234FCEF30023295D /* AppDelegate.swift */; };
 		A4FBFCF1234FCEF30023295D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4FBFCF0234FCEF30023295D /* SceneDelegate.swift */; };
 		A4FBFCF4234FCEF30023295D /* Project42.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A4FBFCF2234FCEF30023295D /* Project42.xcdatamodeld */; };
@@ -22,10 +22,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A4539C2D2351065C00030B7E /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		A4539C372351078400030B7E /* User+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "User+CoreDataClass.swift"; sourceTree = "<group>"; };
 		A4539C382351078400030B7E /* User+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "User+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		A4539C3B235110E700030B7E /* PersistantService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistantService.swift; sourceTree = "<group>"; };
+		A475E8E92358FB4500EC2BE4 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		A4FBFCEB234FCEF30023295D /* Project42.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project42.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4FBFCEE234FCEF30023295D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A4FBFCF0234FCEF30023295D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -93,10 +93,10 @@
 				A4539C372351078400030B7E /* User+CoreDataClass.swift */,
 				A4539C382351078400030B7E /* User+CoreDataProperties.swift */,
 				A4539C3B235110E700030B7E /* PersistantService.swift */,
-				A4539C2D2351065C00030B7E /* Data.swift */,
 				A4FBFCEE234FCEF30023295D /* AppDelegate.swift */,
 				A4FBFCF0234FCEF30023295D /* SceneDelegate.swift */,
 				A4FBFCF5234FCEF30023295D /* ContentView.swift */,
+				A475E8E92358FB4500EC2BE4 /* Data.swift */,
 				A4FBFCFC234FCEFA0023295D /* LaunchScreen.storyboard */,
 				A4FBFCF7234FCEFA0023295D /* Assets.xcassets */,
 				A4FBFCFF234FCEFA0023295D /* Info.plist */,
@@ -231,12 +231,12 @@
 			files = (
 				A4539C3C235110E700030B7E /* PersistantService.swift in Sources */,
 				A4FBFCF4234FCEF30023295D /* Project42.xcdatamodeld in Sources */,
-				A4539C2E2351065C00030B7E /* Data.swift in Sources */,
 				A4539C392351078400030B7E /* User+CoreDataClass.swift in Sources */,
 				A4539C3A2351078400030B7E /* User+CoreDataProperties.swift in Sources */,
 				A4FBFCEF234FCEF30023295D /* AppDelegate.swift in Sources */,
 				A4FBFCF6234FCEF30023295D /* ContentView.swift in Sources */,
 				A4FBFCF1234FCEF30023295D /* SceneDelegate.swift in Sources */,
+				A475E8EA2358FB4500EC2BE4 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
